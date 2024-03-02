@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/a1d2dda59ca238e496488566d3fd9af0ff0fb64304214c10432358c112735312/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966"  />
+<img align="right" height="150" src="https://octodex.github.com/images/Professortocat_v2.png"  />
 
 ###
 
