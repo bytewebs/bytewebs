@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40HeatherQ2918%2Fcoding-is-cool-interesting-and-difficult-5ee9e9c70e6&psig=AOvVaw2lvuc1G9KM1ZGJCTUfcyau&ust=1709206547196000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJi99dv4zYQDFQAAAAAdAAAAABA3"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/a1d2dda59ca238e496488566d3fd9af0ff0fb64304214c10432358c112735312/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966"  />
 
 ###
 
